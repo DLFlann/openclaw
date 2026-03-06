@@ -14,3 +14,6 @@ onlyBuiltDependencies:
   - node-llama-cpp
   - protobufjs
   - sharp
+  - "@tloncorp/api"
+  - "github:tloncorp/api-beta"
+  - "https://codeload.github.com/tloncorp/api-beta/tar.gz/7eede1c1a756977b09f96aa14a92e2b06318ae87"
